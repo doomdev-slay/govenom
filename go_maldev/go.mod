@@ -1,3 +1,3 @@
-module github.com/fandisoft-dev/go_maldev/govenom
+module github.com/doomdev-slay/govenom
 
 go 1.24.0
