@@ -1,4 +1,4 @@
-package main
+package github.com/doomdev-slay/govenom
 
 import (
 	"os"
@@ -139,4 +139,5 @@ func main() {
     } else {
         fmt.Println("Injection completed successfully.")
     }
+
 }
